@@ -2,7 +2,7 @@
 const { Telegraf, Markup } = require('telegraf');
 
 // Insert your Bot Token from @BotFather here
-const BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN_HERE';
+const BOT_TOKEN = '8948038372:AAHnbJ4KXYmYHRkDj_i_rFAJafJ_V8WJTW8';
 const bot = new Telegraf(BOT_TOKEN);
 
 // URL of your web app deployed on GitHub Pages / Vercel
